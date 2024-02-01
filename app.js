@@ -1,3 +1,4 @@
 var name= "Ambinintsoa";
 var greeting = "Hello World!";
-var hooby = "skateboarding";
+var hobby = "skateboarding";
+var age = 25;
